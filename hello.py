@@ -1,0 +1,3 @@
+a =  "Hel"
+print(a)
+
